@@ -1,0 +1,12 @@
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\bin\Debug\concat.exe.config
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\bin\Debug\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\bin\Debug\concat.pdb
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\obj\Debug\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\obj\Debug\concat.pdb
+D:\Joao\Dropbox\Work\Programas\General\Utilities\JavaScript Concat\JavaScript Concat\obj\Debug\concat.csprojResolveAssemblyReference.cache
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Debug\concat.exe.config
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\obj\Debug\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\obj\Debug\concat.pdb
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Debug\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Debug\concat.pdb
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\obj\Debug\concat.csprojResolveAssemblyReference.cache
