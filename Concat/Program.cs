@@ -7,7 +7,7 @@ namespace concat {
 	class Program {
 		static void Main(string[] args) {
 			if(args.Length > 0 && (args[0] == "-help" || args?[0] == "?")) {
-				Console.WriteLine("\nFormat: concat <file name> <target extension> <extensions to search>\n\nExample: concat script js\nExample: concat main py\nExample: concat myFile txt txt py js cpp rb\n\nThere is no limit to the number of extensions to search, the text will be output into the final file.\nIf no arguments are passed, the program will search for .js files. The default file name is \"default_concat.js\"");
+					Console.WriteLine("\nFormat: concat <file name> <target extension> <extensions to search>\n\nExample: concat script js\nExample: concat main py\nExample: concat myFile txt txt py js cpp rb\n\nThere is no limit to the number of extensions to search, the text will be output into the final file.\nIf no arguments are passed, the program will search for .js files. The default file name is \"default_concat.js\"");
 				return;
 			}
 
