@@ -1,0 +1,5 @@
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Release\concat.exe.config
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Release\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\bin\Release\concat.pdb
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\obj\Release\concat.exe
+D:\Joao\Dropbox\Work\Programas\General\Utilities\Concat\Concat\obj\Release\concat.pdb
